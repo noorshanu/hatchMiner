@@ -306,7 +306,7 @@
 .is_dark .sc-button.style-1 {
     border    : 2px solid #eecc2e;
     color     : #fff;
-    background: transparent none repeat scroll 0 0;
+    background: #3c3f06ba none repeat scroll 0 0;
 }
 
 .sc-button.style-1:hover span,
