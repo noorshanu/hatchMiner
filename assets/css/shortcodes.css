@@ -72,7 +72,7 @@
 
 .tf-section {
     padding: 80px 0;
-    background: var(--bg-section);
+    background: #0f0d07;
     margin-bottom: 0 !important;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -304,7 +304,7 @@
 }
 
 .is_dark .sc-button.style-1 {
-    border    : 2px solid #5142FC;
+    border    : 2px solid #eecc2e;
     color     : #fff;
     background: transparent none repeat scroll 0 0;
 }
@@ -655,7 +655,7 @@
 .sc-card-article .meta-info .author .info span,
 .sc-card-product .meta-info .author .info span,
 .sc-card-product .price span {
-    color      : var(--primary-color4);
+    color      : #000;
     font-size  : 13px;
     line-height: 21px;
 }
@@ -663,6 +663,7 @@
 .sc-card-article .meta-info .author .info h6,
 .sc-card-product .meta-info .author .info h6 {
     line-height: 22px;
+    color: #000;
 }
 
 .sc-card-article .text-article {
@@ -816,7 +817,7 @@
 }
 
 .sc-author-box.style-3 .author-avatar .avatar {
-    width        : 100px;
+    width        : 86px;
     height       : 100px;
     border-radius: 34px;
     overflow     : hidden;
@@ -844,7 +845,7 @@
 
 .sc-card-product {
     padding      : 20px;
-    background   : var(--primary-color);
+    background   : #ffee07cc;
     box-shadow   : 0px 3px 16px rgba(47, 83, 109, 0.12);
     border-radius: 20px;
     margin-bottom: 40px;
@@ -1321,7 +1322,7 @@
 
 .sc-card-collection .card-bottom .sc-author-box.style-2 .author-avatar .badge::after {
     font-size  : 10px;
-    color      : #fff;
+    color      : rgb(0, 0, 0);
     font-weight: 700;
 }
 
@@ -4616,7 +4617,7 @@ section.today-picks {
 	right: 0;
 	top: 3px;
     position: absolute;
-    color: #5142FC;
+    color: #f5d22e;
     font-size: 15px;
 }
 
@@ -4625,7 +4626,8 @@ section.today-picks {
 }
 
 .is_dark .flat-accordion2 .flat-toggle2{
-    background-color: #343444;
+    background-color: #000000;
+    border: 1px solid #f5d22e;
 }
 
 .flat-accordion2 .flat-toggle2 h6.toggle-title {
