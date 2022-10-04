@@ -1730,7 +1730,7 @@
 
 .is_dark  .flat-slider .heading .s1 {
     color: #14141f;
-    background: linear-gradient(-45deg, #E250E5, #4B50E6, #E250E5, #4B50E6);
+    background: linear-gradient(-45deg, #e55050, #ee1056, #eeff00, #9f234c);
     background-size: 100% 100%;
     -webkit-background-clip: text;
     -webkit-text-stroke: 3px transparent;
